@@ -2,6 +2,6 @@
 {
 	public class Calisan
 	{
-		public string CalisanAD { get; set; }
+		public string CalisanAd { get; set; }
 	}
 }
